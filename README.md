@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PulidoCorp
+- 👀 I’m interested in learning the mechanics of github collaboration
+- 💞️ I’m looking to collaborate on C# Development
+- 📫 Reach me at PulidoCorp@Hotmail.com
